@@ -1,35 +1,32 @@
-¦U°Ïªº·P¬V¤H¼Æ¹Ï¨C12±i©ñ¦b¦P¤@­¶¡A³o¼Ë¤ñ¸û¦n¤ñ¸û¡C
-
-
-¬ÛÃö«Y¼Æ¥i¥H©ñ¦b¹Ï®ÇÃä¡A¬İ­n¤£­n¥Î°Êµe¥ıÅã¥Ü¹Ï¤ù¡AµM«á¦AÅã¥Ü¬ÛÃö«Y¼Æ¡C
-¬ÛÃö«Y¼Æ¾A¥ÎRª½±µºâ¥X¨Óªº
-
-density correlation :
+density(number) correlation :
 0.8910537
+
+density(percent) correlation :
+0.8753149
 
 park correlation :
 0.08082158
 
 
-¸ê®Æ¨Ó·½ :
+è³‡æ–™ä¾†æº :
 
-µn­²¼ö
+ç™»é©ç†±
 
-»O«n¥«¬F©²¶}©ñ¸ê®Æ¥­¥x
+è‡ºå—å¸‚æ”¿åºœé–‹æ”¾è³‡æ–™å¹³å°
 http://data.tainan.gov.tw/
-¤U¸üºô§}
+ä¸‹è¼‰ç¶²å€
 http://data.tainan.gov.tw/dataset/dengue-dist/resource/bb8d7a88-e038-4cd0-86af-5f13db418928
 
-¦U°Ï¤H¤f
+å„å€äººå£
 
-¬F©²¸ê®Æ¶}©ñ¥­»O
+æ”¿åºœè³‡æ–™é–‹æ”¾å¹³è‡º
 http://data.gov.tw/
-¤U¸üºô§}
+ä¸‹è¼‰ç¶²å€
 http://data.gov.tw/node/gov/resource/74964
 
-¤½¶é
+å…¬åœ’
 
-»O«n¥«¬F©²¶}©ñ¸ê®Æ¥­¥x
+è‡ºå—å¸‚æ”¿åºœé–‹æ”¾è³‡æ–™å¹³å°
 http://data.tainan.gov.tw/
-¤U¸üºô§}
+ä¸‹è¼‰ç¶²å€
 http://data.tainan.gov.tw/dataset/tainan-park-info/resource/9378f8dd-3d41-4cdb-bb52-e6e084e80a77
